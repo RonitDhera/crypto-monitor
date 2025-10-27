@@ -34,7 +34,7 @@ body {
     border-bottom: 3px dashed #FF00FF; /* Cyber Pink Separator */
     padding-bottom: 10px;
     margin-bottom: 20px;
-    font-size: 1.8em;
+    font-size: 1em;
 }
 
 .terminal-prompt {
